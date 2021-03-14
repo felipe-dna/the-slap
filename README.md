@@ -1,6 +1,5 @@
 # The Slap
 
-
 ## Para Instalar os pacotes
 
 ```
@@ -18,3 +17,6 @@ $ python manage.py migrate
 
 $ python manage.py runserver
 ```
+
+
+=)
